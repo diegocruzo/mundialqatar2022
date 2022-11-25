@@ -43,7 +43,7 @@ public function Ingresar(){
 			// window.location=\"".$uri."/wp-admin/admin.php\";
 			// </script>";
 			echo    "<script type=\"text/javascript\">
-					window.location=\"".$uri."/mundialqatar2022/presentacion.php\";
+					window.location=\"".$uri."presentacion.php\";
 					</script>";
 		} 
 	}
